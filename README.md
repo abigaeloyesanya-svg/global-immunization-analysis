@@ -76,7 +76,7 @@ global-immunization-analysis/
 [Page 3 — Country Level]
 
 ## Full Article
-Read the complete case study on Medium: [https://medium.com/@abigaeloyesanya/20-million-children-one-dataset-heres-what-i-found-7b2c6ffe6316]
+Read the complete case study on Medium: (https://medium.com/@oluwapelumioyesanya/20-million-children-one-dataset-heres-what-i-found-7b2c6ffe6316)
 
 ## Author
 **Oluwapelumi Abigael Oyesanya**
