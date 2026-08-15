@@ -3,7 +3,7 @@
 
 ## Overview
 This project is a full end-to-end analysis of global vaccination 
-coverage trends using the WHO/UNICEF WUENIC 2024 dataset — the 
+coverage trends using the WHO/UNICEF WUENIC 2024 dataset, the 
 most authoritative immunization data source in the world. It covers 
 167 countries, 16 vaccine types, and 44 years of records from 
 1980 to 2024.
@@ -12,7 +12,7 @@ The analysis goes beyond summary statistics. Before any chart was
 built, every sheet in the dataset was audited for data quality. 
 Sheets with over 65% missing values were excluded with documented 
 reasoning. Only 7 of the 16 vaccine sheets met the threshold for 
-inclusion — 5 core vaccines with under 15% missing data, and 2 WHO 
+inclusion, 5 core vaccines with under 15% missing data, and 2 WHO 
 priority vaccines included with clearly flagged caveats.
 
 ## Business Problem
@@ -25,13 +25,13 @@ which vaccines are failing the most, and whether coverage is
 recovering from the post-COVID disruption.
 
 ## Key Findings
-- Global DTP3 coverage in 2024 stands at 85% — 5 percentage points 
+- Global DTP3 coverage in 2024 stands at 85%, 5 percentage points 
   below the WHO 90% target
 - 5 out of 7 UNICEF regions are still below the WHO target
 - West and Central Africa has the lowest coverage at 72% and the 
   highest burden with 5.7 million unvaccinated children
 - A visible post-COVID dip between 2019 and 2021 affected all 
-  regions — West and Central Africa has not fully recovered
+  regions: West and Central Africa has not fully recovered
 - The gap between DTP1 and DTP3 coverage signals a dropout problem, 
   not just an access problem
 - Newer vaccines like Measles second dose (74%) and Hepatitis B 
@@ -76,7 +76,7 @@ global-immunization-analysis/
 [Page 3 — Country Level]
 
 ## Full Article
-Read the complete case study on Medium: [link]
+Read the complete case study on Medium: [https://medium.com/@abigaeloyesanya/20-million-children-one-dataset-heres-what-i-found-7b2c6ffe6316]
 
 ## Author
 **Oluwapelumi Abigael Oyesanya**
