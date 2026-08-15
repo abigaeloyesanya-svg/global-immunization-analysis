@@ -80,4 +80,5 @@ Read the complete case study on Medium: [link]
 
 ## Author
 **Oluwapelumi Abigael Oyesanya**
+[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
 Data Analyst | Health Analytics | Python | Power BI 
